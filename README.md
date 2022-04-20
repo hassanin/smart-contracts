@@ -1,2 +1,2 @@
-# Initial REpositoy
+# Initial Repository
 Hello there
